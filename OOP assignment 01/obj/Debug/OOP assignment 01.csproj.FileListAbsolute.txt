@@ -1,0 +1,10 @@
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP assignment 01.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP_assignment_01.Form1.resources
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP_assignment_01.Properties.Resources.resources
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP assignment 01.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP assignment 01.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\bin\Debug\OOP assignment 01.exe.config
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\bin\Debug\OOP assignment 01.exe
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\bin\Debug\OOP assignment 01.pdb
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP assignment 01.exe
+C:\Users\alexa\Documents\School docs\School work scripts\OOP assignment 01\OOP assignment 01\obj\Debug\OOP assignment 01.pdb
