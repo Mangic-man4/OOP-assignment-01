@@ -42,6 +42,7 @@ namespace OOP_assignment_01
             textBox3.Text = "Operand 2";
             textBox4.Text = "Please enter your date of birth";
             textBox5.Text = "Please enter a sentence";
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -255,7 +256,7 @@ namespace OOP_assignment_01
         }
         private void TextBox_GotFocus(object sender, EventArgs e)
         {
-            TextBox textBox = (TextBox)sender;
+            System.Windows.Forms.TextBox textBox = (System.Windows.Forms.TextBox)sender;
 
             if (textBox.Text == "Please enter your name" || textBox.Text == "Operand 1" || textBox.Text == "Operand 2" || 
                 textBox.Text == "Please enter your date of birth" || textBox.Text == "Please enter a sentence")
@@ -267,7 +268,7 @@ namespace OOP_assignment_01
 
         private void TextBox_LostFocus(object sender, EventArgs e)
         {
-            TextBox textBox = (TextBox)sender;
+            System.Windows.Forms.TextBox textBox = (System.Windows.Forms.TextBox)sender;
 
             if (string.IsNullOrWhiteSpace(textBox.Text))
             {
